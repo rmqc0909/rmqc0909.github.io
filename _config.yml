@@ -1,8 +1,7 @@
 auto: true
 
-markdown: rdiscount
-pygments: true
-paginate: 8
+highlighter: 'pygments'
+#paginate: 8
 permalink: /:title
 
 title:  rmqc0909's blog
