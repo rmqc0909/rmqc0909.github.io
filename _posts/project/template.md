@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 匠心
+title: jQuery解构
 category: project
-description: Dinge von Hand gemacht.
+description: jQuery是一个伟大作品，他的完成充满智慧，我们来一点点拆解他，去理解作者的思想精华。
 ---
 # [{{ page.title }}][1]
-2015-12-12 By {{ site.author_info }}
+2012-01-16 By {{ site.author_info }}
 
 
-[Mukosame]:    http://mukosame.github.io  "Mukosame"
+[rmqc0909]:    https://rmqc0909.github.io  "rmqc0909"
 [1]:    {{ page.url}}  ({{ page.title }})
