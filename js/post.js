@@ -188,6 +188,10 @@ $(document).ready(function(){
             $('#menuIndex').css('max-height',$(window).height()-80);
         }
     })();
+    
+    if(/\#comment/.test(location.hash)){
+        $('#disqus_container .comment').trigger('click');
+    }
 
     $.getScript('/js/prettify/prettify.js',function(){
         prettyPrint();
