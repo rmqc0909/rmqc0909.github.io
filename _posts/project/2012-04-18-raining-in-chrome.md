@@ -27,6 +27,7 @@ description: 不知道这是杯具还是悲剧，反正就是可以假装下雨�
 
 想体验，就点[这里][4]下载吧，只支持[Chrome][5]浏览器哦！
 
+![Raining](/images/rainingchrome/rain.jpg)
 
 [BeiYuu]:    http://beiyuu.com  "BeiYuu"
 [1]:    {{ page.url}}  ({{ page.title }})

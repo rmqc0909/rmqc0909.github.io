@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title:  rmqc0909's blog
-url: https://rmqc0909.github.io
+title: BeiYuu.com
+url: http://beiyuu.com
 feed: /atom.xml
-author_info: <a href="https://rmqc0909.github.io">rmqc0909</a>
+author_info: <a href="http://beiyuu.com/">BeiYuu</a>
