@@ -1,11 +1,14 @@
 auto: true
 
 markdown: rdiscount
-pygments: true
-paginate: 8
+
+highlighter: 'pygments'
+#paginate: 8
 permalink: /:title
 
-title: rmqc0909's Blog
-url: https://rmqc0909.github.io
+name: “Mukosame's Blog”
+title: Mukosame's blog
+description: Everything about Mukosame.
+url: http://mukosame.github.io
 feed: /atom.xml
-author_info: <a href="https://rmqc0909.github.io/">rmqc0909</a>
+author_info: <a href="http://mukosame.github.io/">Mukosame</a>
