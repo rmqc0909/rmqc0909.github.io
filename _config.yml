@@ -1,14 +1,9 @@
-auto: true
-
-markdown: rdiscount
-
-highlighter: 'pygments'
-#paginate: 8
-permalink: /:title
-
-name: “rmqc0909's Blog”
-title: rmqc0909's blog
-description: Everything about rmqc0909.
-url: http://rmqc0909.github.io
-feed: /atom.xml
-author_info: <a href="http://rmqc0909.github.io/">rmqc0909</a>
+baseurl: ""
+markdown: redcarpet
+redcarpet:
+    extensions: [tables]
+safe: false
+pygments: true
+excerpt_separator: "\n\n\n"
+paginate: 5
+sitemapurl: "http://minixalpha.github.io"

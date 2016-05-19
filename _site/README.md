@@ -1,8 +1,6 @@
-#一点点说明
+Using GitHub Jeklly Markdown to Write Blog
 
-这是[rmqc0909.github.io](http://rmqc0909.github.io)的blog。你可以到gh-pages branch中查看干净的版本。
-* 感谢来自于beiyuu的设计(http://beiyuu.com/)
-* 希望你喜欢
-* 欢迎star
-* 欢迎fork
-* Happy hacking ^_^
+Visit [HomePage](http://minixalpha.github.io)
+
+[Introduction](https://github.com/minixalpha/minixalpha.github.io/blob/source/_posts/2014-02-15-github-jekyll-markdown.md)(chinese version):
+An introduction about how to create a free blog using GitHub and Jeklly. 
