@@ -1,9 +1,11 @@
-baseurl: ""
-markdown: redcarpet
-redcarpet:
-    extensions: [tables]
-safe: false
+auto: true
+
+markdown: rdiscount
 pygments: true
-excerpt_separator: "\n\n\n"
-paginate: 5
-sitemapurl: "http://rmqc0909.github.io"
+paginate: 8
+permalink: /:title
+
+title: rmqc0909's Blog
+url: https://rmqc0909.github.io
+feed: /atom.xml
+author_info: <a href="https://rmqc0909.github.io/">rmqc0909</a>
