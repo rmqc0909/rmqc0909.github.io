@@ -3,9 +3,7 @@
 Github托管的是以前Jekyll版本的源码，现在博客用Hexo重新搭建
 #### 预览
 
-* Jekyll版本：EZLippi.github.io
-* Hexo 版本： [www.ezlippi.com](http://www.ezlippi.com)
-* Hexo版本源码：[https://coding.net/u/ezlippi/p/ezlippi/git/tree/coding-pages/](https://coding.net/u/ezlippi/p/ezlippi/git/tree/coding-pages/)
+
 
 ### 使用Jekyll版本作为博客模板，仅需如下几步：
 
@@ -26,22 +24,10 @@ Github托管的是以前Jekyll版本的源码，现在博客用Hexo重新搭建
 
 ### 联系方式
 
-联系方式： Email(ouyanglip@gmail.com) 
 
 
 ### 使用本项目作模板的博客链接
 
-* http://www.94geek.com  
-* http://www.haidaoxiaofei.me  
-* http://www.malphi.net  
-* http://happyaround.com  
-* http://tencentlocation.github.io  
-* http://wtaps.github.io 
-* http://maoshu.cc
-* http://x-carto.com/
-* (你的位置)  
 
-## 2016-02-25更新
 
-* 本博客由Jekyl迁移到Hexo,博客地址[ezlippi](www.ezlippi.com),源码托管在了国内的[Coding.net](https://coding.net/u/ezlippi/p/ezlippi/git/tree/coding-pages/)
-* 使用Hexo搭建个人博客具体教程参考[Jekyll迁移到Hexo建立个人博客](http://www.ezlippi.com/blog/2016/02/jekyll-to-hexo.html)
+
