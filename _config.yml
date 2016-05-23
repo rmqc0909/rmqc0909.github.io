@@ -1,8 +1,8 @@
-title: Map Maker
-description: Keep Going
-author: polokobe
-email: fengtao_whu@163.com
-github: polokobe
+title: 程序媛
+description: I've got your back!
+author: rmqc0909
+email: rmqc0909@163.com
+github: rmqc0909
 
 permalink: /blog/:year/:month/:title.html
 markdown: kramdown
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 auto: false
 encoding: utf-8
 baseurl: ""
-url: "x-carto.com"
+url: "http://rmqc0909.github.io"
 
 paginate: 10
 paginate_path: "page:num"
