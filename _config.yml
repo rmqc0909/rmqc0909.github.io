@@ -1,36 +1,19 @@
-permalink: /blog/:year/:month/:title.html 
-include: ['.htaccess']
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME", "Gemfile", "Gemfile.lock"]
+title: Map Maker
+description: Keep Going
+author: polokobe
+email: fengtao_whu@163.com
+github: polokobe
+
+permalink: /blog/:year/:month/:title.html
 markdown: kramdown
-highlights: pygments
-url: 
-cdn_url: 7u2t01.com1.z0.glb.clouddn.com
-lsi: false
-safe: true
+highlighter: pygments
+highlight: true
+safe: false
 timezone: Asia/Shanghai
-auto: false 
+auto: false
+encoding: utf-8
+baseurl: ""
+url: "x-carto.com"
 
-paginate: 8
+paginate: 10
 paginate_path: "page:num"
-
-kramdown:
-  auto_ids: true,
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-
-
-# presonal config
-domain: http://rmqc0909.github.io
-title: rmqc0909
-description: Draw my life with code
-author: rmqc0909
-email: rmqc0909@gmail.com
-github: rmqc0909
-
-config:
-  js_dir:
-  img_dir:
-  css_dir:

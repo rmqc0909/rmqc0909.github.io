@@ -2,6 +2,7 @@
  * Reset some basic elements
  */
 /* commom */
+/*
 @font-face{font-family:'MuseoSans';src:url('../fonts/museosans_300-webfont.eot');src:url('../fonts/museosans_300-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museosans_300-webfont.woff') format('woff'),url('../fonts/museosans_300-webfont.ttf') format('truetype'),url('../fonts/museosans_300-webfont.svg#MuseoSans300Regular') format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'MuseoSans';src:url('../fonts/museosans_100_italic-webfont.eot');src:url('../fonts/museosans_100_italic-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museosans_100_italic-webfont.woff') format('woff'),url('../fonts/museosans_100_italic-webfont.ttf') format('truetype'),url('../fonts/museosans_100_italic-webfont.svg#MuseoSans100Italic') format('svg');font-weight:normal;font-style:italic}
 @font-face{font-family:'MuseoSans';src:url('../fonts/museosans_700-webfont.eot');src:url('../fonts/museosans_700-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museosans_700-webfont.woff') format('woff'),url('../fonts/museosans_700-webfont.ttf') format('truetype'),url('../fonts/museosans_700-webfont.svg#MuseoSans700Regular') format('svg');font-weight:bold;font-style:normal}
@@ -10,7 +11,7 @@
 @font-face{font-family:'museo_300regular';src:url('../fonts/museo300-regular-webfont.eot');src:url('../fonts/museo300-regular-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museo300-regular-webfont.woff') format('woff'),url('../fonts/museo300-regular-webfont.ttf') format('truetype'),url('../fonts/museo300-regular-webfont.svg#museo_300regular') format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'museo_500regular';src:url('../fonts/museo500-regular-webfont.eot');src:url('../fonts/museo500-regular-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museo500-regular-webfont.woff') format('woff'),url('../fonts/museo500-regular-webfont.ttf') format('truetype'),url('../fonts/museo500-regular-webfont.svg#museo_500regular') format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'museo_700regular';src:url('../fonts/museo700-regular-webfont.eot');src:url('../fonts/museo700-regular-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museo700-regular-webfont.woff') format('woff'),url('../fonts/museo700-regular-webfont.ttf') format('truetype'),url('../fonts/museo700-regular-webfont.svg#museo_700regular') format('svg');font-weight:normal;font-style:normal}
-
+*/
 body {
     padding-top: 70px;
     font-size:16px;word-spacing:1px;
@@ -65,7 +66,7 @@ pre {
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
-}       
+}
 
 code {
     font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
@@ -137,7 +138,7 @@ nav{
 .post-area{
 	/*
 	background-color:#f8f8fd;
-		
+
 	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
 	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
 	-o-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
@@ -152,10 +153,10 @@ nav{
 }
 .post-list-item{
 	display: block;
-	padding:8px 30px 10px 30px; 
+	padding:8px 30px 10px 30px;
 	border-bottom:1px solid #ddd;
 
-	transition:0.4s ease; 
+	transition:0.4s ease;
 	-webkit-transition:0.4s ease;
 	-moz-transition:0.4s ease;
 	-o-transition:0.4s ease;
@@ -171,7 +172,7 @@ nav{
 
 .post-list-item:hover{
 	background-color: rgba(0,0,6,0.05);
-	
+
 }
 
 /* Posts List */
@@ -224,25 +225,18 @@ ul.posts .date {
 }
 .categories-list-item{
 	display: block;
-	padding:8px 15px; 
+	padding:8px 15px;
 	border-bottom:1px solid #ddd;
 	font-size: 14px;
-	font-weight:bold 
-
-	/*transition:0.4s ease;
-	-webkit-transition:0.4s ease;
-	-moz-transition:0.4s ease;
-	-o-transition:0.4s ease;*/
+	font-weight:bold
 }
+
 .categories-list-item:last-of-type{
-	border-bottom:none; 
+	border-bottom:none;
 }
 .categories-list-item:hover{
-	/*background-color: rgba(0,0,10,0.075);
-	color: #983;*/
 	 padding-left: 30px;
-   	 border-left: 15px solid #CE2323;
-
+   	    border-left: 15px solid #CE2323;
     	-webkit-transition: all .3s linear;
     	-o-transition: all .3s linear;
     	transition: all .3s linear;
@@ -270,9 +264,9 @@ ul.posts .date {
 
 /* shadow */
 .shadow-corner-curl{
-	
+
 	position: relative;
-	background-color:#f8f8fd; 
+	background-color:#f8f8fd;
 	-webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
 	-moz-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
 	-o-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
@@ -326,32 +320,24 @@ ul.posts .date {
 
 /* footer */
 footer{
-display:block;
-text-align: center;
-border-top: 1px dashed #CCC;
-}
+	min-height: 50px;
+	line-height: 50px;
+	margin-top: 40px;
+	background: #3f4850;
+	color: #aaa;
+	text-align: center;
 
-footer small {
-font-size: 13px;
-color: #999;
+	-webkit-box-shadow: 0 -2px 4px rgba(0,0,0,0.5);
+	-moz-box-shadow: 0 -2px 4px rgba(0,0,0,0.5);
+	-o-box-shadow: 0 -2px 4px rgba(0,0,0,0.5);
+	box-shadow: 0 -2px 4px rgba(0,0,0,0.5);
 }
-
-footer a {
-margin: 1px;
-border: 1px solid rgba(1,1,1,0);
-border-bottom: 1px dashed #BBB;
-color: #B9221F;
-text-decoration: none;
-}
-
-footer a:hover {
-    color: rgba(250,250,250,1.0) !important; 
-    -webkit-border-radius: 4px;
-    border: 1px solid rgba(0,0,0,0.45);
-    text-shadow: rgba(0,0,0,0.6) 0px -1px 0px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(110,110,110,1.0)), to(rgba(100,100,100,1.0)));
-    -webkit-box-shadow: rgba(0,0,0,1.0) 0px 0px 2px,rgba(255,255,255,0.15) 0px 1px 1px inset;
-    text-decoration: none;
+footer a:link {color: #aaa}		/* 未访问的链接 */
+footer a:visited {color: #888}	/* 已访问的链接 */
+footer a:hover {color: #bbb;text-decoration: none;}	/* 鼠标移动到链接上 */
+footer a:active {color: #bbb}	/* 选定的链接 */
+footer .point{
+	margin: 0 8px;
 }
 /**
  * Icons
@@ -426,9 +412,9 @@ blockquote:last-child {
 	width:0;
 	height: 0;
 	border-right: 15px solid transparent;
-	border-left: 15px solid transparent; 
+	border-left: 15px solid transparent;
 	border-bottom: 15px solid #7f7f7f;
-	
+
 }
 #top .stick{
 	margin:0 auto;
@@ -453,7 +439,7 @@ blockquote:last-child {
 }
 .page-content table tr td:first-of-type{
 	padding: 6px 10px 6px 10px;
-	border-right: 1px dashed #ddd; 
+	border-right: 1px dashed #ddd;
 	text-align: right;
 }
 
@@ -490,10 +476,10 @@ blockquote:last-child {
 	vertical-align: top;
 	/*float: left;*/
 
-	
+
 }
 
-@media screen and (max-width: 1200px) { 
+@media screen and (max-width: 1200px) {
 	#fall ul{
 		width: 210px;
 	}
@@ -514,7 +500,7 @@ blockquote:last-child {
 	-o-box-shadow: 0 0 5px rgba(0,0,0,0.6),0 0 20px rgba(0,0,0,0.1) inset;
 	box-shadow: 0 0 5px rgba(0,0,0,0.6),0 0 20px rgba(0,0,0,0.1) inset;
 
-	transition:0.1s ease-out; 
+	transition:0.1s ease-out;
 	-webkit-transition:0.1s ease-out;
 	-moz-transition:0.1s ease-out;
 	-o-transition:0.1s ease-out;
@@ -570,7 +556,7 @@ blockquote:last-child {
 	max-width: 292px;
 }
 #content .content-text{
-	padding: 10px 0; 
+	padding: 10px 0;
 }
 #content ul{
 	padding-left: 30px;
@@ -581,7 +567,7 @@ blockquote:last-child {
 	line-height: 25px;
 }
 .shadow-bottom-center{
-	background-color:#f8f8fd; 
+	background-color:#f8f8fd;
 	-webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
 	-moz-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
 	-o-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
@@ -605,12 +591,10 @@ blockquote:last-child {
     	font-size: 14px;
 	}
 	pre code{
-  
+
 		font-size: 12px;
 	}
 	.post article ul{
 		padding-left: 25px;
 	}
 }
-
-
