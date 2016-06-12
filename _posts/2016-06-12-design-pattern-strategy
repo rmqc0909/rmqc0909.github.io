@@ -1,7 +1,7 @@
 ---
 layout: post
-title: designpattern--strategy
-keywords: DesignPattern
+title: strategy
+keywords: strategy
 categories : [DesignPattern]
 tags : [DesignPattern]
 ---
