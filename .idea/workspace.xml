@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-06-19-git-common-commands.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rmqc0909.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -573,12 +573,12 @@
       <option name="number" value="Default" />
       <updated>1466297742062</updated>
       <workItem from="1466297746791" duration="719000" />
-      <workItem from="1466298482534" duration="1070000" />
+      <workItem from="1466298482534" duration="1399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1789000" />
+    <option name="totallyTimeSpent" value="2118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
