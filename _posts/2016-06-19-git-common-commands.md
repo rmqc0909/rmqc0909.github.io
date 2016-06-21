@@ -9,14 +9,18 @@ tags : [Git]
 
 命令行中利用git命令
 
-* 更新代码  git pull
+更新代码
+* git pull
 
 如果出现代码冲突:
 {% highlight javascript %}
-error: Your local changes to the following files would be overwritten by merge:
+error: Your local changes to the following files would be overwritten by merge
         .......
 Please, commit your changes or stash them before you can merge.
 {% endhighlight %}
 可将代码库的文件完全覆盖本地工作版本,方法如下
 
-* 覆盖本地工作版本  git reset --hard    git pull
+覆盖本地工作版本
+
+* git reset --hard
+* git pull
