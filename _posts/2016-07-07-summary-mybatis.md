@@ -13,4 +13,4 @@ tags : [Mybatis]
 ### 解决方法
 
 mybatis插入空值时，需要指定jdbcType
-将入参格式改为：#{userNme, jdbcType = VARCHAR}
+将入参格式改为：#{userName, jdbcType = VARCHAR}
