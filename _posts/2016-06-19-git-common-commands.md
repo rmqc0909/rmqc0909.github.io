@@ -23,5 +23,5 @@ Please, commit your changes or stash them before you can merge.
 
 覆盖本地工作版本
 
-* git reset --hard
+* git reset ---hard
 * git pull
