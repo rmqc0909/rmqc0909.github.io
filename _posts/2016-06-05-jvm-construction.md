@@ -11,7 +11,7 @@ tags : [Java]
 
 ## 接下来对每个区域进行简要说明
 
-### method area
+### method area(permanent generation)
 类型信息和类的静态变量都存储在方法区。方法区对于每个类存储了以下数据：类及其父类的全限定名(如：java.util.Date),类的类型,访问修饰符,实现的接口的全限定名的列表,常量池：(存储了字符串，final变量值，类名，方法名常量),字段信息,方法信息,静态变量,classloader引用,class引用
 
 ### heap
