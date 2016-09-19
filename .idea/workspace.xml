@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="git command">
+    <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-18-git-command.md" afterPath="$PROJECT_DIR$/_posts/2016-09-18-git-command.md" />
     </list>
     <ignored path="rmqc0909.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,8 +125,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-09-18-git-command.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="350">
-                <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+              <first_editor relative-caret-position="375">
+                <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -721,7 +720,7 @@
       <workItem from="1470832152908" duration="1147000" />
       <workItem from="1471157436939" duration="688000" />
       <workItem from="1474174977919" duration="262000" />
-      <workItem from="1474175261558" duration="3701000" />
+      <workItem from="1474175261558" duration="4264000" />
     </task>
     <task id="LOCAL-00001" summary="git command">
       <created>1474192626075</created>
@@ -744,11 +743,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474193564217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git command">
+      <created>1474248441406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1474248441406</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16682000" />
+    <option name="totallyTimeSpent" value="17245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -1112,8 +1118,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-09-18-git-command.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="350">
-            <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+          <first_editor relative-caret-position="375">
+            <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             <folding />
           </first_editor>
           <second_editor />
