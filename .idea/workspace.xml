@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-25-algorithm-k'th_smallest_element.md" afterPath="$PROJECT_DIR$/_posts/2016-09-25-algorithm-k'th_smallest_element.md" />
     </list>
     <ignored path="rmqc0909.github.io.iws" />
@@ -136,8 +135,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-09-25-algorithm-k'th_smallest_element.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.16">
-                <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+              <first_editor vertical-scroll-proportion="0.72">
+                <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -771,7 +770,7 @@
       <workItem from="1471157436939" duration="688000" />
       <workItem from="1474174977919" duration="262000" />
       <workItem from="1474175261558" duration="4264000" />
-      <workItem from="1474329706065" duration="6117000" />
+      <workItem from="1474329706065" duration="6767000" />
     </task>
     <task id="LOCAL-00001" summary="git command">
       <created>1474192626075</created>
@@ -801,7 +800,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23362000" />
+    <option name="totallyTimeSpent" value="24012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1313,8 +1312,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-09-25-algorithm-k'th_smallest_element.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.16">
-            <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <first_editor vertical-scroll-proportion="0.72">
+            <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />

@@ -75,9 +75,9 @@ public class KthSmallest {
      is used by randomPartition()*/
     int partition(int arr[], int l, int r)
     {
-        
         int x = arr[r], i = l;
-        for (int j = l; j <= r - 1; j++)
+        //保证i之前的元素均小于数组最右边的元素
+        for (int j = l; j < r; j++)
         {
             if (arr[j] <= x)
             {
@@ -97,7 +97,6 @@ public class KthSmallest {
         Random rand = new Random();
         int n = r-l+1;
         int pivot = rand.nextInt(n);        //return a Integer between [0, n);
-        System.out.println("pivot: " + pivot);
         swap(arr, l + pivot, r);
         return partition(arr, l, r);
     }
@@ -106,7 +105,7 @@ public class KthSmallest {
     public static void main(String args[])
     {
         KthSmallest ob = new KthSmallest();
-        int arr[] = {12, 3, 5, 7, 4, 19, 26, 29, 3, 5, 36};
+        int arr[] = {12, 3, 5, 7, 4, 19, 26, 29, 3, 5, 36, 42};
         int n = arr.length,k = n / 2;
         System.out.println("K'th smallest element is "+
                 ob.kthSmallest(arr, 0, n-1, k));
@@ -116,16 +115,14 @@ public class KthSmallest {
     }
 }
 
-
-
 ```
 
 ### Result
 
 ```java
 
-K'th smallest element is 5
-3 3 5 4 5 7 12 26 19 26 
+K'th smallest element is 7
+3 4 3 5 5 7 12 29 19 26 36 42  
 
 ```
 
