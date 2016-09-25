@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-25-algorithm-k'th_smallest_element.md" afterPath="$PROJECT_DIR$/_posts/2016-09-25-algorithm-k'th_smallest_element.md" />
-    </list>
+    <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="" />
     <ignored path="rmqc0909.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -770,7 +768,7 @@
       <workItem from="1471157436939" duration="688000" />
       <workItem from="1474174977919" duration="262000" />
       <workItem from="1474175261558" duration="4264000" />
-      <workItem from="1474329706065" duration="6767000" />
+      <workItem from="1474329706065" duration="7351000" />
     </task>
     <task id="LOCAL-00001" summary="git command">
       <created>1474192626075</created>
@@ -800,11 +798,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24012000" />
+    <option name="totallyTimeSpent" value="24596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
