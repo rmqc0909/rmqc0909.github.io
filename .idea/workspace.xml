@@ -729,7 +729,7 @@
       <workItem from="1474175261558" duration="4264000" />
       <workItem from="1474329706065" duration="7351000" />
       <workItem from="1474853523974" duration="1983000" />
-      <workItem from="1475032016254" duration="3163000" />
+      <workItem from="1475032016254" duration="3292000" />
     </task>
     <task id="LOCAL-00001" summary="git command">
       <created>1474192626075</created>
@@ -766,11 +766,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475040571628</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="git command">
+      <created>1475041084649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1475041084649</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29742000" />
+    <option name="totallyTimeSpent" value="29871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
