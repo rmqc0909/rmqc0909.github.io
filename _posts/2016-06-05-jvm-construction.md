@@ -1,11 +1,13 @@
 ---
 layout: post
-title: JVM
-keywords: jvm结构图
+title: jvm结构图
+keywords: Java
 categories : [Java]
 tags : [Java]
 ---
 ## 先来看一张图
+下图主要描述了jvm的各个工作区
+
 ![picture](/images/java/runtime data area.png)
 
 ## 接下来对每个区域进行简要说明
