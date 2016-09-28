@@ -6,7 +6,6 @@ categories : [Java]
 tags : [Java]
 ---
 ### 先看下面一段代码
-
 ```java
 
 package cn.tk.polymiorphism.constructor;

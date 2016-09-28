@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md" afterPath="$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-28-java-polyconstructors.md" afterPath="$PROJECT_DIR$/_posts/2016-09-28-java-polyconstructors.md" />
     </list>
     <ignored path="rmqc0909.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,12 +75,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-07-03-linux-rwx.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2016-07-03-linux-rwx.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
+              <first_editor relative-caret-position="200">
+                <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-05-28-cookie.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-05-28-cookie.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -105,12 +123,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-09-28-java-polyconstructors.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-09-28-java-polyconstructors.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-09-28-java-polyconstructors.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="206">
-                <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+              <first_editor relative-caret-position="-725">
+                <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -141,8 +159,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-09-01-java-garbage-collection.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1050">
-                <caret line="42" column="124" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="124" />
+              <first_editor relative-caret-position="467">
+                <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -192,10 +210,10 @@
         <option value="$PROJECT_DIR$/_posts/2016-06-05-mac-tips.md" />
         <option value="$PROJECT_DIR$/_posts/2016-06-12-design-pattern-strategy.md" />
         <option value="$PROJECT_DIR$/_posts/2016-08-14-tool-idea.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-25-algorithm-dutch_national_flag_proflem.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-25-algorithm-k'th_smallest_element.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-18-git-command.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-28-java-polyconstructors.md" />
       </list>
     </option>
@@ -728,7 +746,7 @@
       <workItem from="1474175261558" duration="4264000" />
       <workItem from="1474329706065" duration="7351000" />
       <workItem from="1474853523974" duration="1983000" />
-      <workItem from="1475032016254" duration="3459000" />
+      <workItem from="1475032016254" duration="3973000" />
     </task>
     <task id="LOCAL-00001" summary="git command">
       <created>1474192626075</created>
@@ -783,7 +801,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30038000" />
+    <option name="totallyTimeSpent" value="30552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -835,20 +853,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-06-19-git-common-commands.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1308,45 +1312,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-09-01-java-garbage-collection.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1050">
-            <caret line="42" column="124" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="124" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-06-19-git-common-commands.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-45">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1404,14 +1374,62 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-09-28-java-polyconstructors.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-05-28-cookie.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="206">
-            <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-28-java-polyconstructors.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-725">
+            <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-01-java-garbage-collection.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="467">
+            <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="200">
+            <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
