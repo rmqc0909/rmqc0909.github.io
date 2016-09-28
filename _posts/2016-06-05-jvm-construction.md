@@ -6,7 +6,6 @@ categories : [Java]
 tags : [Java]
 ---
 ## 先来看一张图
-
 ![picture](/images/java/runtime data area.png)
 
 ## 接下来对每个区域进行简要说明

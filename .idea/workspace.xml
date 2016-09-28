@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md" afterPath="$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-28-java-polyconstructors.md" afterPath="$PROJECT_DIR$/_posts/2016-09-28-java-polyconstructors.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-06-05-jvm-construction.md" afterPath="$PROJECT_DIR$/_posts/2016-06-05-jvm-construction.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-18-git-command.md" afterPath="$PROJECT_DIR$/_posts/2016-09-18-git-command.md" />
     </list>
     <ignored path="rmqc0909.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,22 +43,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-07-07-summary-mybatis.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-07-07-summary-mybatis.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2016-06-12-design-pattern-strategy.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-06-12-design-pattern-strategy.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -75,12 +59,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-07-03-linux-rwx.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-07-03-linux-rwx.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="200">
                 <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-06-05-jvm-construction.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-06-05-jvm-construction.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="175">
+                <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -107,12 +107,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-09-18-git-command.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2016-09-18-git-command.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2016-09-18-git-command.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="425">
-                <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <first_editor relative-caret-position="375">
+                <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -212,9 +212,10 @@
         <option value="$PROJECT_DIR$/_posts/2016-08-14-tool-idea.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-25-algorithm-dutch_national_flag_proflem.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-25-algorithm-k'th_smallest_element.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-09-18-git-command.md" />
         <option value="$PROJECT_DIR$/_posts/2016-07-03-linux-rwx.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-28-java-polyconstructors.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-06-05-jvm-construction.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-09-18-git-command.md" />
       </list>
     </option>
   </component>
@@ -746,7 +747,7 @@
       <workItem from="1474175261558" duration="4264000" />
       <workItem from="1474329706065" duration="7351000" />
       <workItem from="1474853523974" duration="1983000" />
-      <workItem from="1475032016254" duration="3973000" />
+      <workItem from="1475032016254" duration="4379000" />
     </task>
     <task id="LOCAL-00001" summary="git command">
       <created>1474192626075</created>
@@ -797,11 +798,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475041255565</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="git command">
+      <created>1475041892199</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1475041892199</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30552000" />
+    <option name="totallyTimeSpent" value="30958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -853,20 +861,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2016-06-19-git-common-commands.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-09-18-git-command.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1346,39 +1340,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-09-18-git-command.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="425">
-            <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-09-25-algorithm-k'th_smallest_element.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-05-28-cookie.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1430,6 +1396,48 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-06-05-jvm-construction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="175">
+            <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-05-28-cookie.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-18-git-command.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="375">
+            <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
