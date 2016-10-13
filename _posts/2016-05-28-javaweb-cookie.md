@@ -2,8 +2,8 @@
 layout: post
 title: cookie学习
 keywords: cookie
-categories : [Web]
-tags : [Web]
+categories : [JavaWeb]
+tags : [JavaWeb]
 ---
 ### 为什么要有cookie
 先解释两个名词：客户端和服务器端。
