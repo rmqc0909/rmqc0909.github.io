@@ -7,16 +7,16 @@ tags : [Algorithm]
 ---
 
 ### Problem Description
-Given an unsorted array nums, reorder it such that nums【0】< nums【1】> nums【2】< nums【3】.... 
+Given an unsorted array nums, reorder it such that nums[0]< nums[1]> nums[2]< nums[3].... 
 
 #### Example:
-* Given nums = 【1, 5, 1, 1, 6, 4】, one possible answer is 【1, 4, 1, 5, 1, 6】.
-* Given nums = 【1, 3, 2, 2, 3, 1】, one possible answer is 【2, 3, 1, 3, 1, 2】. 
+* Given nums = [1, 5, 1, 1, 6, 4], one possible answer is [1, 4, 1, 5, 1, 6].
+* Given nums = [1, 3, 2, 2, 3, 1], one possible answer is [2, 3, 1, 3, 1, 2]. 
 
 ### 主要思路：
 * 找出中位数mid，并将中位数放到指定位置，即中位数之前的所有元素都小于中位数，中位数后面的元素都大于中位数
-* 利用A【i】=nums【1+2*(i))%(nums.length &#124; 1】关系进行数组下标的映射，当**i**小于nums.length/2（原数组的前一半元素），映射到奇数位，当**i**大于等于nums.length/2（原数组的后一半元素），映射到偶数位
-* A【i】与mid进行比较，其实相当于把大于mid的元素放到奇数位置，小于mid的元素放到偶数位置
+* 利用A[i]=nums[1+2*(i))%(nums.length &#124; 1]关系进行数组下标的映射，当i < nums.length/2（原数组的前一半元素），映射到奇数位，当i >= nums.length/2（原数组的后一半元素），映射到偶数位
+* A[i]与mid进行比较，其实相当于把大于mid的元素放到奇数位置，小于mid的元素放到偶数位置
 
 ### Solution
 
