@@ -7,16 +7,16 @@ tags : [Algorithm]
 ---
 
 ### Problem Description
-Given an unsorted array nums, reorder it such that nums[0] < nums[1] > nums[2] < nums[3].... 
+Given an unsorted array nums, reorder it such that nums【0】< nums【1】> nums【2】< nums【3】.... 
 
 Example:
-(1) Given nums = [1, 5, 1, 1, 6, 4], one possible answer is [1, 4, 1, 5, 1, 6].
-(2) Given nums = [1, 3, 2, 2, 3, 1], one possible answer is [2, 3, 1, 3, 1, 2]. 
+(1) Given nums = 【1, 5, 1, 1, 6, 4】, one possible answer is 【1, 4, 1, 5, 1, 6】.
+(2) Given nums = 【1, 3, 2, 2, 3, 1】, one possible answer is 【2, 3, 1, 3, 1, 2】. 
 
 ### 主要思路：
 * 找出中位数mid，并将中位数放到指定位置，即中位数之前的所有元素都小于中位数，中位数后面的元素都大于中位数
-* 利用A[i] = nums[1 + 2 * (i)) % (nums.length | 1]关系进行数组下标的映射，当i < nums.length/2（原数组的前一半元素），映射到奇数位，当i >= nums.length/2（原数组的后一半元素），映射到偶数位
-* A[i]与mid进行比较，其实相当于把大于mid的元素放到奇数位置，小于mid的元素放到偶数位置
+* 利用A【i】=nums【1+2*(i))%(nums.length|1】关系进行数组下标的映射，当i < nums.length/2（原数组的前一半元素），映射到奇数位，当i>=nums.length/2（原数组的后一半元素），映射到偶数位
+* A【i】与mid进行比较，其实相当于把大于mid的元素放到奇数位置，小于mid的元素放到偶数位置
 
 ### Solution
 
@@ -82,7 +82,9 @@ wiggleSort:
 ### 一点点说明
 
 该算法研究挺久的，其中利用**kthSmallest.kthSmallest**方法寻找中位数并将其放入指定位置参考之前写的文章
+
 [http://rmqc0909.github.io/blog/2016/09/algorithm-k'th_smallest_element.html](http://rmqc0909.github.io/blog/2016/09/algorithm-k'th_smallest_element.html)
 
 对于下标的映射也需要好好理解下，可以参考以下文章
+
 [https://discuss.leetcode.com/topic/32920/o-n-time-o-1-space-solution-with-detail-explanations](https://discuss.leetcode.com/topic/32920/o-n-time-o-1-space-solution-with-detail-explanations)
