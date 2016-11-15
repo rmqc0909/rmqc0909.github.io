@@ -12,11 +12,13 @@ tags : [Java]
 public class Test {
     public static void main(String[] args) {
         ClassLoader classLoader = Test.class.getClassLoader();
-        System.out.println(classLoader);
+        System.out.println("Test classloader: " + classLoader);
         ClassLoader classLoader1 = classLoader.getParent();
-        System.out.println(classLoader1);
+        System.out.println("Test parent classloader: " + classLoader1);
         ClassLoader classLoader2 = classLoader1.getParent();
-        System.out.println(classLoader2);
+        System.out.println("Test grandparent classloader: " + classLoader2);
+        ClassLoader classLoader3 = Integer.class.getClassLoader();
+        System.out.println("Integer classloader: " + classLoader3);
     }
 }
 
@@ -26,9 +28,10 @@ public class Test {
 
 ```java
 
-sun.misc.Launcher$AppClassLoader@12a3a380
-sun.misc.Launcher$ExtClassLoader@1d44bcfa
-null
+Test classloader: sun.misc.Launcher$AppClassLoader@42a57993
+Test parent classloader: sun.misc.Launcher$ExtClassLoader@28d93b30
+Test grandparent classloader: null
+Integer classloader: null
 
 ```
 
@@ -47,9 +50,10 @@ null
 
 这个时候根类加载器就去加载这个类，可在%JAVA_HOME%\jre\lib下，它找不到Test类，所以它告诉子类加载器，让子类扩展类加载器在%JAVA_HOME%\lib\ext找，找不到，它让它的子类加载器AppClassLoader去找，AppClassLoader找到Test类，加到内存中，并生成Class对象。
 
+由打印结果可以看出，Integer类实际上是由根类加载器加载。
 #### 启动类加载器 实际类加载器
 
 上面Test.class中启动类加载器是应用类加载器,实际类加载器也是应用类加载器。
 
-感谢
-[http://www.cnblogs.com/wang-meng/p/5574071.html] (http://www.cnblogs.com/wang-meng/p/5574071.html)
+参见
+[http://www.cnblogs.com/wang-meng/p/5574071.html](http://www.cnblogs.com/wang-meng/p/5574071.html)
