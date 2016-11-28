@@ -17,8 +17,8 @@ ArrayList类中add方法返回一个boolean值，并且ArrayList是数组实现�
 ```java
 @Test
 	public void test() {
-		ArrayList<Integer> arrayList = new ArrayList();		        //1
-		ArrayList<Integer> caparrayList = new ArrayList(1000);		//2
+        ArrayList<Integer> arrayList = new ArrayList(); //1
+		ArrayList<Integer> caparrayList = new ArrayList(1000);  //2
 		for (int i = 0; i < 100; i++) arrayList.add(i);
 	}
 ```

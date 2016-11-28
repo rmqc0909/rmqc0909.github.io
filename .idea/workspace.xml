@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-11-28-java-arraylist.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-15-java-localcache.md" afterPath="$PROJECT_DIR$/_posts/2016-11-15-java-localcache.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-28-java-arraylist.md" afterPath="$PROJECT_DIR$/_posts/2016-11-28-java-arraylist.md" />
     </list>
     <ignored path="rmqc0909.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-28-java-arraylist.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-925">
-                <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+              <first_editor relative-caret-position="100">
+                <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -617,7 +616,7 @@
       <workItem from="1479215199107" duration="1892000" />
       <workItem from="1479264365976" duration="605000" />
       <workItem from="1480302435939" duration="3848000" />
-      <workItem from="1480314490540" duration="2805000" />
+      <workItem from="1480314490540" duration="3039000" />
     </task>
     <task id="LOCAL-00001" summary="git command">
       <created>1474192626075</created>
@@ -675,11 +674,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475041892199</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="git arraylist">
+      <created>1480324445679</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1480324445679</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72046000" />
+    <option name="totallyTimeSpent" value="72280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -725,7 +731,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git command" />
-    <option name="LAST_COMMIT_MESSAGE" value="git command" />
+    <MESSAGE value="git arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="git arraylist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1083,6 +1090,7 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-2917">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1112,8 +1120,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-28-java-arraylist.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-925">
-            <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <first_editor relative-caret-position="100">
+            <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
             <folding />
           </first_editor>
           <second_editor />
