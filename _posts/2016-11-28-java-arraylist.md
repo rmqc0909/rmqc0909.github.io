@@ -18,13 +18,13 @@ ArrayList类中add方法返回一个boolean值，并且ArrayList是数组实现�
 @Test
 	public void test() {
         ArrayList<Integer> arrayList = new ArrayList(); //1
-		ArrayList<Integer> caparrayList = new ArrayList(1000);  //2
-		for (int i = 0; i < 100; i++) arrayList.add(i);
+        ArrayList<Integer> caparrayList = new ArrayList(1000);  //2
+        for (int i = 0; i < 100; i++) arrayList.add(i);
 	}
 ```
 
-方式1 new ArrayList()对应的size初值为0，本篇主要讲述第一种情况ArrayList中自动扩容及如何增加元素。
-方式2 new ArrayList(1000)直接初始化一个大小是1000的数组。
+* 方式1 new ArrayList()对应的size初值为0，本篇主要讲述第一种情况ArrayList中自动扩容及如何增加元素。
+* 方式2 new ArrayList(1000)直接初始化一个大小是1000的数组。
 
 #### add方法源码
 

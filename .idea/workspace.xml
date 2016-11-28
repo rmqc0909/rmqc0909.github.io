@@ -29,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-28-java-arraylist.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="100">
-                <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+              <first_editor relative-caret-position="150">
+                <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -616,7 +616,7 @@
       <workItem from="1479215199107" duration="1892000" />
       <workItem from="1479264365976" duration="605000" />
       <workItem from="1480302435939" duration="3848000" />
-      <workItem from="1480314490540" duration="3039000" />
+      <workItem from="1480314490540" duration="3290000" />
     </task>
     <task id="LOCAL-00001" summary="git command">
       <created>1474192626075</created>
@@ -681,11 +681,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480324445679</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="git arraylist">
+      <created>1480324642812</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1480324642812</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72280000" />
+    <option name="totallyTimeSpent" value="72531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1120,8 +1127,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-28-java-arraylist.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="100">
-            <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <first_editor relative-caret-position="150">
+            <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
