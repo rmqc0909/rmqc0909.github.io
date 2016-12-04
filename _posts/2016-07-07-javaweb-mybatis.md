@@ -8,7 +8,7 @@ tags : [JavaWeb]
 ### 错误描述
 项目采用**mybatis + spring**时，更新sql时，抛出如下错误：
 
-![picture](/images/mybatis/2016-07-07-mybatis.png)
+![picture](/images/javaweb/2016-07-07-mybatis.png)
 
 ### 解决方法
 
