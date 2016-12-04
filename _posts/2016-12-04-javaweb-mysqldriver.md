@@ -8,7 +8,7 @@ tags : [JavaWeb]
 
 #### 启动tomcat,报如下错误
 
-![picture](/images/javaweb/2016-12-04-mysqldriver.pic)
+![picture](/images/javaweb/2016-12-04-mysqldriver.png)
 
 #### 解决办法
 
