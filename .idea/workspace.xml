@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="2017">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-01-01-life-new_year_list.md" />
+    <list default="true" id="729146dd-7546-4c58-93f8-b5679b9003d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-01-life-new_year_list.md" afterPath="$PROJECT_DIR$/_posts/2017-01-01-life-new_year_list.md" />
     </list>
     <ignored path="rmqc0909.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-life-new_year_list.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.51492536">
-                <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+              <first_editor vertical-scroll-proportion="0.17910448">
+                <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -46,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-12-25-java-storage-location.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="-0.54477614">
+              <first_editor vertical-scroll-proportion="0.0">
                 <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -150,7 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,8 +185,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -663,7 +663,8 @@
       <workItem from="1480812292051" duration="1515000" />
       <workItem from="1481208262691" duration="3958000" />
       <workItem from="1482068762994" duration="372000" />
-      <workItem from="1483235728883" duration="1240000" />
+      <workItem from="1483235728883" duration="1876000" />
+      <workItem from="1483239168244" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="git command">
       <created>1474192626075</created>
@@ -737,14 +738,20 @@
       <option name="project" value="LOCAL" />
       <updated>1480813947975</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2016--&gt;2017">
+      <created>1483238143300</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1483238143300</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79754000" />
+    <option name="totallyTimeSpent" value="80576000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -817,7 +824,8 @@
     <MESSAGE value="git arraylist" />
     <MESSAGE value="spring + mybatis 启动tomcat报错" />
     <MESSAGE value="修改mysqldriver后缀名" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改mysqldriver后缀名" />
+    <MESSAGE value="2016--&gt;2017" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016--&gt;2017" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1283,7 +1291,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-12-25-java-storage-location.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="-0.54477614">
+          <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1297,8 +1305,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-life-new_year_list.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.51492536">
-            <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <first_editor vertical-scroll-proportion="0.17910448">
+            <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />

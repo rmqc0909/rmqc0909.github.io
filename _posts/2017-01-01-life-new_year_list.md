@@ -7,6 +7,8 @@ tags : [life]
 ---
 
 #### 2016后悔的事
+2016-01-01  平平淡淡的开始工作
+2016-03-15  找个会照顾人的男票
 
 * 年初没能离职
 * 没有温柔对待spp
@@ -20,8 +22,9 @@ tags : [life]
 * 好好写博客,提高写作以及表达能力
 
 优秀博主推荐
-[http://my.csdn.net/u012702547](http://my.csdn.net/u012702547)
-[http://www.ruanyifeng.com/blog/](http://www.ruanyifeng.com/blog/)
+
+* [http://my.csdn.net/u012702547](http://my.csdn.net/u012702547)
+* [http://www.ruanyifeng.com/blog/](http://www.ruanyifeng.com/blog/)
 
 2016已完成博文:28篇
 
