@@ -6,7 +6,6 @@ categories : [JavaWeb]
 tags : [JavaWeb]
 ---
 ### 开发环境
-
 首先声明,出现中文不显示问题仅限于webserver下,执行java的main函数是显示中文的
 
 * 操作系统: Mac   
