@@ -5,7 +5,7 @@ keywords: Java
 categories : [Java]
 tags : [Java]
 ---
-* JDK版本：1.7
+JDK版本：1.7
 
 HashMap采用的数据结构：哈希数组
 处理冲突的方法：链地址法（拉链法）
