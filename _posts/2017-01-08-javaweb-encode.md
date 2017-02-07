@@ -13,8 +13,8 @@ tags : [JavaWeb]
 
 ### 解决方法
 
-1. 打开idea安装目录下（软件一般都安装在/Applications目录）/Applications/IntelliJ IDEA 15.app/Contents/bin   
-idea.vmoptions文件    -—-该文件是jvm运行时的参数配置
+1. 打开idea安装目录下（软件一般都安装在/Applications目录）/Applications/IntelliJ IDEA 15.app/Contents/bin 
+idea.vmoptions文件（该文件是jvm运行时的参数配置）
 2. 在idea.vmoptions文件末尾添加：-Dfile.encoding=UTF-8
 3. 打开idea中配置的tomcat界面，在VM option处也添加  -Dfile.encoding=UTF-8
 
