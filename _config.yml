@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 auto: false
 encoding: utf-8
 baseurl: ""
-url: "http://rmqc0909.github.io"
+url: "https://rmqc0909.github.io"
 
 paginate: 10
 paginate_path: "page:num"

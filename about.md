@@ -12,7 +12,7 @@ title: "About"
 ### 联系方式
 
 <p class="contact">
- <a href="https://github.com/rmqc0909" title="Github联系我"><img src="http://www.github.com/favicon.ico" width="48" height="48" style="display:inline-block;vertical-align:middle"></a><br/>
+ <a href="https://github.com/rmqc0909" title="Github联系我"><img src="https://www.github.com/favicon.ico" width="48" height="48" style="display:inline-block;vertical-align:middle"></a><br/>
 邮箱: rmqc0909@163.com
 </p>
 
