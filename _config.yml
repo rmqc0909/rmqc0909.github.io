@@ -8,7 +8,7 @@ permalink: /blog/:year/:month/:title.html
 markdown: kramdown
 highlighter: pygments
 highlight: true
-safe: true
+safe: false
 timezone: Asia/Shanghai
 auto: false
 encoding: utf-8
