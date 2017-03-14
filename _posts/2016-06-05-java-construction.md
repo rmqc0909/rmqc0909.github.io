@@ -2,8 +2,8 @@
 layout: post
 title: jvm结构图
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 ## 先来看一张图
 下图主要描述了jvm的各个工作区

@@ -2,8 +2,8 @@
 layout: post
 title: 失眠了诶
 keywords: Dump
-categories : [Dump]
-tags : [Dump]
+categories: [Dump]
+tags: [Dump]
 ---
 
 #### 失眠到底多可怕

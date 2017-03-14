@@ -2,8 +2,8 @@
 layout: post
 title: jvm垃圾回收
 keywords: java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 
 ### 垃圾回收（GC）小结（部分文字摘自Thing in Java）

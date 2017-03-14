@@ -2,8 +2,8 @@
 layout: post
 title: 算法小程序-DutchNationalFlagProblem
 keywords: Algorithm
-categories : [Algorithm]
-tags : [Algorithm]
+categories: [Algorithm]
+tags: [Algorithm]
 ---
 
 ### Problem Description

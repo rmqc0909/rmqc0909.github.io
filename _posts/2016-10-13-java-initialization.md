@@ -2,8 +2,8 @@
 layout: post
 title: Java程序初始化顺序
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 ### Java程序初始化遵循的3个原则
 * 静态对象（变量）优先于非静态对象（变量），其中静态对象只初始化一次

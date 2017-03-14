@@ -2,8 +2,8 @@
 layout: post
 title: git基本操作
 keywords: Git
-categories : [Git]
-tags : [Git]
+categories: [Git]
+tags: [Git]
 ---
 ### 工作流
 * 工作目录： 持有实际文件

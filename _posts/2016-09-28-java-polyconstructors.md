@@ -2,8 +2,8 @@
 layout: post
 title: 构造器内部多态方法的行为
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 ### 先看下面一段代码
 ```java

@@ -2,8 +2,8 @@
 layout: post
 title: mybatis错误分析
 keywords: Mybatis
-categories : [JavaWeb]
-tags : [JavaWeb]
+categories: [JavaWeb]
+tags: [JavaWeb]
 ---
 ### 错误描述
 项目采用**mybatis + spring**时，更新sql时，抛出如下错误：

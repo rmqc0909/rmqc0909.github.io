@@ -2,8 +2,8 @@
 layout: post
 title: 算法小程序-Find_K'th_Smallest_Element(Expected Linear Time)
 keywords: Algorithm
-categories : [Algorithm]
-tags : [Algorithm]
+categories: [Algorithm]
+tags: [Algorithm]
 ---
 
 ### Problem Description

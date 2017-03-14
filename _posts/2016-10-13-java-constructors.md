@@ -2,8 +2,8 @@
 layout: post
 title: Java构造函数
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 #### 什么是构造函数
 构造函数是一种特殊的函数，用来在对象实例化时初始化对象的成员变量。

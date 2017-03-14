@@ -2,8 +2,8 @@
 layout: post
 title: mkdir
 keywords: Linux
-categories : [Linux]
-tags : [Linux]
+categories: [Linux]
+tags: [Linux]
 ---
 ### mac终端命令之mkdir
 

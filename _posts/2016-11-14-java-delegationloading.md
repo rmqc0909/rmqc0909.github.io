@@ -2,8 +2,8 @@
 layout: post
 title: 委托加载机制
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 ### ClassLoader层次结构
 

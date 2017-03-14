@@ -2,8 +2,8 @@
 layout: post
 title: 本地缓存的实现
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 
 #### 为什么需要缓存

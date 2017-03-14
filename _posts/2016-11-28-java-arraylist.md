@@ -2,8 +2,8 @@
 layout: post
 title: ArrayList学习
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 #### add方法分析
 

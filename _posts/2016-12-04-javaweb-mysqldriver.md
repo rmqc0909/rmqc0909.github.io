@@ -2,8 +2,8 @@
 layout: post
 title: spring + mybatis 启动tomcat 报错
 keywords: spring mybatis 
-categories : [JavaWeb]
-tags : [JavaWeb]
+categories: [JavaWeb]
+tags: [JavaWeb]
 ---
 
 #### 启动tomcat,报如下错误

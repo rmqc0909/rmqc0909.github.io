@@ -2,8 +2,8 @@
 layout: post
 title: 多态机制--重载与覆盖
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 ### java的多态机制
 java提供了编译时多态和运行时多态两种机制。编译时多态是通过方法的重载实现，运行时多态是通过方法覆盖（子类方法覆盖父类方法）实现。

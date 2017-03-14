@@ -2,8 +2,8 @@
 layout: post
 title: git命令学习
 keywords: git
-categories : [Git]
-tags : [Git]
+categories: [Git]
+tags: [Git]
 ---
 ### 如何在idea中更新git上的代码
 

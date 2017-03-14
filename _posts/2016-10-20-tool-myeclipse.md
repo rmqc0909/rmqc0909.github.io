@@ -2,8 +2,8 @@
 layout: post
 title: web工程在myeclipse中无法显示bin文件夹
 keywords: Tool
-categories : [Tool]
-tags : [Tool]
+categories: [Tool]
+tags: [Tool]
 ---
 ### 问题描述
 web工程在myeclipse中无法显示bin文件夹及如何利用build.xml进行打包
