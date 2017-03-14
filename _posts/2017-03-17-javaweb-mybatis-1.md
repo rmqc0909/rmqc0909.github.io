@@ -36,7 +36,7 @@ CREATE TABLE `country` (
   `country_name` varchar(255) DEFAULT NULL,
   `country_code` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`Id`)
-) ENGINE=InnoDB AUTO_INCREMENT=184 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 ```
 
 2. 引入相关依赖,用maven搭建mybatis工程
