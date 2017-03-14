@@ -2,8 +2,8 @@
 layout: post
 title: new Year(2017);
 keywords: life 
-categories : [life]
-tags : [life]
+categories: [life]
+tags: [life]
 ---
 
 #### 回顾2016

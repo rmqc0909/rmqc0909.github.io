@@ -2,8 +2,8 @@
 layout: post
 title: java 变量存储位置
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 
 #### 局部变量
