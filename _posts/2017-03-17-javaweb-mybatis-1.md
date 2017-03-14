@@ -1,11 +1,10 @@
 ---
 layout: post
-title: mybatis入门学习(一)
+title: mybatis学习(一)
 keywords: Mybatis
-categories : [JavaWeb]
-tags : [JavaWeb]
+categories: [JavaWeb]
+tags: [JavaWeb]
 ---
-
 #### 前言
 虽然网上已经有很多关于Mybatis的文章,但我决定要写自己的一个系列,趁着辞职间隙可以好好梳理一下。
 写mybatis系列文章的目的主要有以下原因:

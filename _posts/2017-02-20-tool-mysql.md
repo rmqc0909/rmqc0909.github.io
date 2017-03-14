@@ -2,8 +2,8 @@
 layout: post
 title: Mysql无法插入中文(Insert语句)
 keywords: Tool
-categories : [Tool]
-tags : [Tool]
+categories: [Tool]
+tags: [Tool]
 ---
 ### 问题描述
 mysql中 **INSERT INTO users(NAME, age) VALUES('日暮清晨', 23);**

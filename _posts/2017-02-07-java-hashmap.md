@@ -2,8 +2,8 @@
 layout: post
 title: HashMap之put(K key, V value)方法学习
 keywords: Java
-categories : [Java]
-tags : [Java]
+categories: [Java]
+tags: [Java]
 ---
 JDK版本：1.7
 
