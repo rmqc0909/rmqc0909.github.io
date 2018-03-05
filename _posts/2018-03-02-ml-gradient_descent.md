@@ -16,15 +16,15 @@ tags: [ML]
 ![picture](/images/machinelearing/grad1.png)
 
 其中x0 = 1，m为样本数，n为特征数，theta为线性回归的参数；
-1. 代价函数
+* 代价函数
 
 ![picture](/images/machinelearing/grad2.png)
 
-2. 求梯度
+* 求梯度
 
 ![picture](/images/machinelearing/grad3.png)
 
-3. 参数更新
+* 参数更新
 
 ![picture](/images/machinelearing/grad4.png)
 
